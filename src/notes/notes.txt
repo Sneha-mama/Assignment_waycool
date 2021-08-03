@@ -1,0 +1,10 @@
+Bootstarp
+----------
+->fontawesome.css -> icons
+->bootstrap.css
+->mdb.css
+->styles.css
+
+->npm i mdbootstrap
+-> npm i @fortawesome/fontawesome-free
+-> configure the files in "index.js" file
